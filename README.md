@@ -3,9 +3,9 @@ This repository contains all the coding excerises required to achieve the certif
 
 Contents:
 
-Module 1 : Introduction to Machine Learning \n
-Module 2: Introduction to Regression
-Module 3: Classification
-Module 4: Clustering
-Module 5: Recommender Systems
-Module 6: Final Project
+Module 1 : Introduction to Machine Learning </br>
+Module 2: Introduction to Regression </br>
+Module 3: Classification </br>
+Module 4: Clustering </br>
+Module 5: Recommender Systems </br>
+Module 6: Final Project </br>
